@@ -1,4 +1,5 @@
 # Call Center Training Performance Dashboard
+![Dashboard Preview](images/dashboard_preview.png)
 
 ## Overview
 
