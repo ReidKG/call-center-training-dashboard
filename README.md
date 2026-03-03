@@ -115,17 +115,6 @@ This project shows the ability to:
 
 ---
 
-## Future Enhancements
-
-Potential next steps include:
-
-* Adding trainer-level drillthrough
-* Incorporating agent headcount normalization
-* Building automated data refresh
-* Expanding to multi-source data integration
-* Adding advanced DAX time intelligence
-
----
 
 ## Author
 
